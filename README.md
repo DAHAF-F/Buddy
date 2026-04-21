@@ -55,7 +55,7 @@ buddy-ai-assistant/
 ### 2. Clone & install
 
 ```bash
-git clone https://github.com/your-username/buddy-ai-assistant.git
+git clone https://github.com/DAHAF-F/buddy-ai-assistant.git
 cd buddy-ai-assistant
 uv sync          # creates .venv and installs all dependencies
 ```
