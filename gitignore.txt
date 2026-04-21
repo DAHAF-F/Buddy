@@ -1,0 +1,28 @@
+# End of https://www.toptal.com/developers/gitignore/api/python
+
+### Project-Specific ###
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Google Cloud service account JSON
+*.json
+!package.json
+
+# LiveKit / audio temp files
+*.wav
+*.mp3
+*.ogg
+*.opus
+
+# Supabase local config
+.supabase/
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db

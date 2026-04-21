@@ -1,0 +1,2 @@
+# Python version pin (uncomment if using pyenv with 3.11)
+# .python-version
